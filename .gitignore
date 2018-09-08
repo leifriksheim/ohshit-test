@@ -12,3 +12,4 @@ selenium-debug.log
 *.njsproj
 *.sln
 .vscode
+.env
