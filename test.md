@@ -7,7 +7,3 @@ Hello here is a text
 Something here
 
 Blabla
-
-Bobobobo
-
-Bababa
