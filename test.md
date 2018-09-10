@@ -8,16 +8,5 @@ Something here
 
 Blabla
 
-Bobobobo
-
-Bababa
-
-Dette skulle vært i master
-
-Somehting here
-
-Her skulle det vært noe mer
-
-Halla
-
-Hello
+ajksdhaskjdhasjk
+sdf
