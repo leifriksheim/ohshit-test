@@ -7,3 +7,12 @@ Hello here is a text
 Something here
 
 Blabla
+
+ajksdhaskjdhasjk
+sdf
+
+sdfsdfsdsdfsdfsd
+
+Første commit
+
+Andre commit
