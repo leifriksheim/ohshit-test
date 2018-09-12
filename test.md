@@ -12,3 +12,5 @@ ajksdhaskjdhasjk
 sdf
 
 sdfsdfsdsdfsdfsd
+
+Første commit
