@@ -18,3 +18,5 @@ Første commit
 Andre commit
 
 Her er en tekst jeg kommer til å ønske å fjerne
+
+Enda en tekst
